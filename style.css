@@ -1,6 +1,5 @@
 /* Basic Style */
 
-
 body {
   background-color: #f8f8f8;
   color: #333;
@@ -47,14 +46,14 @@ button {
 .main__input {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .add-section__content {
   display: flex;
 }
 
-.section{
+.section {
   margin: 0;
   padding: 0px;
 }
@@ -135,7 +134,7 @@ button {
 }
 
 .section__content .main__input {
-  width: 226px
+  width: 226px;
 }
 
 .delete-button__img {
@@ -150,17 +149,17 @@ button {
 
 /* Completed */
 .main__completed .main__task {
-  text-decoration: line-through color: #888;
+  text-decoration: line-through; color: #888;
 }
 
 /* Edit Task */
 .section__content .main__input {
-  display: none
+  display: none;
 }
 
 .section__edit .main__input {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .section__edit .main__task {
