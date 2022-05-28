@@ -149,7 +149,8 @@ button {
 
 /* Completed */
 .main__completed .main__task {
-  text-decoration: line-through; color: #888;
+  text-decoration: line-through;
+  color: #888;
 }
 
 /* Edit Task */
